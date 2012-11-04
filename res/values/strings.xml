@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Izgoy Uploader</string>
+    <string name="prefs">Izgoy Uploader Settings</string>
+    <string name="uploading">Uploading...</string>
+    <string name="done">Done</string>
+</resources>
